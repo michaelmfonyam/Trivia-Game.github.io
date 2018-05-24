@@ -1,0 +1,37 @@
+body {
+    min-width: 1100px;
+}
+
+.radio {
+    display: inline-block;
+    margin-left: 1%;
+    font-size: 1.1em;
+    width: 22%;
+}
+
+.results {
+    text-align: center;
+
+}
+
+.result {
+    display: inline-block;
+}
+
+.game {
+    width:80%;
+    margin-left: 10%;
+}
+
+#reel {
+    height: 200px;
+    
+    margin-top: 15px;
+}
+
+.jumbotron {
+    border-bottom: 3px solid black;
+
+    background-image: url("C:/Users/Michael/Desktop/code/TriviaGame/assets/img/bg.jpg");
+
+}
